@@ -1,0 +1,7 @@
+* text=auto
+
+*.pdf -text -diff
+*.png binary
+*.pptx binary
+*.csv -diff
+*.ipynb -diff

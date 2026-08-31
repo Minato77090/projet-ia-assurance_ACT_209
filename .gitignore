@@ -1,0 +1,28 @@
+# Materiel personnel de preparation a la soutenance (non livrable)
+# (fichiers cibles precis - docs/agent_evidence/ reste suivi si genere)
+docs/GLOSSAIRE_CONCEPTS.md
+docs/Livrable1_Plan_Slides.docx
+docs/Livrable2_Trame_Discours.docx
+docs/Livrable3_QA_Jury.docx
+docs/PREPARATION_SOUTENANCE.md
+docs/Preparation_Soutenance.pptx
+docs/TEXTE_SOUTENANCE.md
+
+# Archives et brouillons obsoletes
+old/
+
+# Script de generation PPTX supersede (livrable final finalise manuellement dans report/)
+presentation/
+
+# Ancien dossier de mise en page LaTeX, supersede par report/ (figures dupliquees/orphelines)
+report_latex/
+
+# Demo terminal simulee pour la soutenance (materiel personnel, non livrable)
+demo_agent_triage.py
+
+# Divers
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
